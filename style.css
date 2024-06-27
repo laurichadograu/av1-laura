@@ -3,11 +3,11 @@
 
 
 :root{
-    --branco: rgb(255, 255, 255);
-    --cor-de-fundo: #000000ad;
+    --branco: rgb(255, 0, 140);
+    --cor-de-fundo: #149eb1d2;
     --fundo-senha: #5d7481;
     --fundo-texto: #001E40;
-    --borda: #003cff;
+    --borda: #10c3fa;
     --roboto: 'Bebas Neue', sans-serif;
     --roboto-mono: 'Bebas Neue', monospace;
 }
